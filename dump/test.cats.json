@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6665e31499b1d2175913c3d4"
+  },
+  "name": "black",
+  "origin": "unknown",
+  "temperament": "mysterious",
+  "colors": [],
+  "createdAt": {
+    "$date": "2024-06-09T17:15:00.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T17:15:00.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665e31499b1d2175913c3d5"
+  },
+  "name": "orange",
+  "origin": "tabby",
+  "temperament": "friendly",
+  "colors": [],
+  "createdAt": {
+    "$date": "2024-06-09T17:15:00.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T17:15:00.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665e31499b1d2175913c3d3"
+  },
+  "name": "grey",
+  "origin": "siamese",
+  "temperament": "agressive",
+  "colors": [],
+  "createdAt": {
+    "$date": "2024-06-09T17:15:00.323Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T17:15:00.323Z"
+  },
+  "__v": 0
+}]

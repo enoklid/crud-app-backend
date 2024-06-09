@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6665e6aa99b1d2175913c3e5"
+  },
+  "name": "Hummingbird",
+  "species": "Trochilidae",
+  "family": "Apodiformes",
+  "createdAt": {
+    "$date": "2024-06-09T17:30:18.484Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T17:30:18.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665e6aa99b1d2175913c3e4"
+  },
+  "name": "Eagle",
+  "species": "Aquila chrysaetos",
+  "family": "Accipitridae",
+  "createdAt": {
+    "$date": "2024-06-09T17:30:18.484Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T17:30:18.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665e6aa99b1d2175913c3e3"
+  },
+  "name": "Sparrow",
+  "species": "Passer domesticus",
+  "family": "Passeridae",
+  "createdAt": {
+    "$date": "2024-06-09T17:30:18.484Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T17:30:18.484Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6665e65599b1d2175913c3df"
+  },
+  "name": "Bailey",
+  "breed_group": "Working",
+  "size": "Extra Large",
+  "colors": [],
+  "createdAt": {
+    "$date": "2024-06-09T17:28:53.027Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T17:28:53.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665e65599b1d2175913c3dd"
+  },
+  "name": "Buddy",
+  "breed_group": "Sporting",
+  "size": "Medium",
+  "colors": [],
+  "createdAt": {
+    "$date": "2024-06-09T17:28:53.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T17:28:53.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665e65599b1d2175913c3de"
+  },
+  "name": "Max",
+  "breed_group": "Herding",
+  "size": "Large",
+  "colors": [],
+  "createdAt": {
+    "$date": "2024-06-09T17:28:53.027Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T17:28:53.027Z"
+  },
+  "__v": 0
+}]
